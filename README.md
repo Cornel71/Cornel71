@@ -26,13 +26,19 @@ Using professional shields.io badges.
 
 ### 🤝 Connect with Me
 <div align="left">
+  <p>
   <a href="https://www.linkedin.com/in/cornel-mihaibadea/" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
+  </p>
+  <p>
   <a href="https://x.com/CornelMihai71" target="_blank">
     <img src="https://shields.io" alt="Twitter" />
   </a>
+  </p>  
+  <p>
   <a href="https://www.a-s-d.ro" target="_blank">
     <img src="https://shields.io" alt="Website" />
   </a>
+  </p>  
 </div>
