@@ -15,23 +15,8 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tools
 Using professional shields.io badges to show your expertise cleanly.
-
-#### Frontend
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![TailwindCSS](https://shields.io)
-
-#### Backend & Databases
-![NodeJS](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MongoDB](https://shields.io)
-
-#### DevOps & Tools
-![Docker](https://shields.io)
-![AWS](https://shields.io)
-![Git](https://shields.io)
 
 ---
 
