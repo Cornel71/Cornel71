@@ -38,7 +38,7 @@ Using professional shields.io badges.
   </p>  
   <p>
   <a href="https://www.a-s-d.ro" target="_blank">
-    <img src="https://shields.io" alt="Website" />
+    <img src="https://shields.io" alt="A-S-D.ro" />
   </a>
   </p>  
 </div>
