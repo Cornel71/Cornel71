@@ -7,10 +7,10 @@
 ---
 
 ### 👤 About Me
-- 🔭 I’m currently working on **Ansible LLM**
+- 🔭 I’m currently working on **Various Things**
 - 🌱 I’m currently learning **Advanced System Architecture and AI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Nothing**
+- 💬 Ask me **!**
 - 📫 How to reach me: **badeacornel@yahoo.com** or via social links below
 
 ---
