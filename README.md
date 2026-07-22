@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Advanced System Architecture and AI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me **!**
-- 📫 How to reach me: **badeacornel@yahoo.com** or via social links below
+- 📫 How to reach me: ** via social links below **
 
 ---
 
